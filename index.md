@@ -6,6 +6,6 @@ layout: single
 author_profile: true
 ---
 
-**"Design is an iterative process. The nesessary number of iterations is one more than the number you have currently done. This is true at any point in time" -Akin's Laws of Spacecraft Design**
+**"Design is an iterative process. The nesessary number of iterations is one more than the number you have currently done. This is true at any point in time" - Akin's Laws of Spacecraft Design**
 
 - nuf said
