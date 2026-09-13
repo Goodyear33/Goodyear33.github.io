@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Ben Goodyear"
-  avatar : "/assets/images/PFP.png"
+  avatar : "/assets/images/1on1.png"
   bio    : "I'm an enthusiastic fourth-year Aerospace Engineering student at Carleton University. Passionate about aircraft, spacecraft, and mechanical design particularly in developing and enhancing robotic systems"
   links:
     - label: "LinkedIn"
@@ -76,16 +76,16 @@ author:
   #    url: "https://instagram.com/"
 
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+  ##links:
+ #   - label: "Twitter"
+ #     icon: "fab fa-fw fa-twitter-square"
+ #     url: "https://twitter.com/"
+ #   - label: "GitHub"
+ #     icon: "fab fa-fw fa-github"
+ #     url: "https://github.com/"
+ #   - label: "Instagram"
+ #     icon: "fab fa-fw fa-instagram"
+ #     url: "https://instagram.com/"
 
 defaults:
   # _posts
