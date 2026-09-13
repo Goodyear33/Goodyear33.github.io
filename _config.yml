@@ -60,7 +60,8 @@ plugins:
 author:
   name   : "Ben Goodyear"
   avatar : "/assets/images/Headshot_Grey.png"
-  bio    : "I'm an Aerospace Engineering student who has contributed to the Canadarm3 effort. I love working on novel technologies that require creativity and first-principles thinking"
+  bio    : "I'm an Aerospace Engineering student who has contributed to the Canadarm3 effort. 
+  bio    : "I love working on novel technologies that require creativity and first-principles thinking"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
