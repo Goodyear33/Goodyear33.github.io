@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ben Goodyear"
   avatar : "/assets/images/Headshot_Grey.png"
-  bio    : "I'm an enthusiastic fourth-year Aerospace Engineering student at Carleton University. Passionate about aircraft, spacecraft, and mechanical design particularly in developing and enhancing robotic systems"
+  bio    : "I'm an Aerospace Engineering student who has contributed to the Canadarm 3 effort. I love working on novel technologies that require creativity and first-principles thinking"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
