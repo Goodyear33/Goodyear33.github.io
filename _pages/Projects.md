@@ -29,7 +29,7 @@ feature_row1:
     alt: "ACS Image"
     title: " Planetary Rover Active Suspension System"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: https://www.google.com/search?sca_esv=6ec40a246726ec23&rlz=1C1CHZN_enCA970CA970&sxsrf=APpeQnt68sFYAplNXKFo9zx-Ywo3k8lOXA:1789511208956&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqCQj_06QnZs315LoFmPf5bBLHMJ0vMQmTbuI72DM7jnxvATrUU2Yg9dwuUGnsUHcXPuOM0_k1dPPnMiKJgy16fA_o6ggz9fufsmENEL4Z0BKdgQIXBAdAyzxUq_ArhIl1vPBll6hIu1zOtyv60dLXN6UWT3cF0J8EKXursJ2OQTF6H_rKgU9hPR0fWWzt8fFDjXsgg&q=active+suspension&sa=X&sqi=2&ved=2ahUKEwjeoLnf0PGWAxWkF1kFHevGIYwQtKgLegQIGxAB&biw=1707&bih=772&dpr=1.13 
+    url: /ACS/
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
