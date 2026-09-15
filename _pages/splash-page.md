@@ -44,7 +44,6 @@ feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     # alt: "placeholder image 2"
     # title: "Placeholder Image Center Aligned"
-    type="center"
     excerpt: '**"There is nothing impossible for those who will try"**' 
     # url: "#test-link"
     # btn_label: "Read More"
@@ -57,6 +56,6 @@ feature_row3:
 
 {% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row3" type="center" %}
 
 {% include feature_row id="feature_row4" type="center" %}
