@@ -3,7 +3,7 @@ main:
 #    url: /posts/
   - title: "Projects (Fun Stuff)"
     url: /projects/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+    - title: "About"
     url: /about/
+- title: "Tags"
+    url: /tags/
