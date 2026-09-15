@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Ben Goodyear"
   avatar : "/assets/images/Headshot_Grey.png"
-  bio    : "I'm an Aerospace Engineering student with aircraft and spacecraft work experience. I love working on novel technologies that require creativity and first-principles thinking"
+  bio    : "I'm an Aerospace Engineering student with aircraft and spacecraft experience. I love working on novel technologies that require creativity and first-principles thinking"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
