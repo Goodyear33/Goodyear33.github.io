@@ -1,6 +1,6 @@
 ---
 title: "Some of my Projects:"
 layout: categories
-permalink: /Projects/
+permalink: /projects/
 author_profile: false
 ---
