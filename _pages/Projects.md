@@ -27,7 +27,7 @@ intro:
 feature_row1:
   - image_path: /assets/images/ACS.png
     alt: "ACS Image"
-    title: " Planetary Rover Active Suspension System"
+    title: " Planetary Rover Active Suspension System - Personal Project"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: /ACS/
     btn_label: "Read More"
@@ -35,7 +35,7 @@ feature_row1:
 feature_row2:
   - image_path: /assets/images/LINK1.png
     alt: "Link Image"
-    title: "Limbed Interface for Natural Kinetics (LINK)"
+    title: "Limbed Interface for Natural Kinetics (LINK) - Personal Project"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
     url: "#test-link"
     btn_label: "Read More"
