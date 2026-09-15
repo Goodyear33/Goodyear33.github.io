@@ -44,7 +44,7 @@ feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     #alt: "placeholder image 2"
     #title: "Placeholder Image Center Aligned"
-    excerpt: '**"There is nothing impossible for he who will try"** type="center"'
+    excerpt: '**"There is nothing impossible for he who will try"**' type="center"
     #url: "#test-link"
     #btn_label: "Read More"
     #btn_class: "btn--primary"
