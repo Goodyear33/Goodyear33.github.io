@@ -1,7 +1,7 @@
 ---
 title: "Splash Page"
 layout: splash
-permalink: /splash-page/
+permalink: /splash/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -43,7 +43,7 @@ feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
-    excerpt: '**The world offers itself to your imagination and it is the wanderers of imagination who design the future**'
+    excerpt: "**The world offers itself to your imagination and it is the wanderers of imagination who design the future**"
     url: "#test-link"
   <!--  btn_label: "Read More"
     btn_class: "btn--primary" -->
