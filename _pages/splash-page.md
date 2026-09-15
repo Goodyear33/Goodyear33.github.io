@@ -41,11 +41,11 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: "**The world offers itself to your imagination and it is the wanderers of imagination who design the future**"
-    url: "#test-link"
+#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#   alt: "placeholder image 2"
+#    title: "Placeholder Image Center Aligned"
+    excerpt: "**The world offers itself to your imagination and it is the wanderers of imagination who design the future** 'type = center'"
+#    url: "#test-link"
 #    btn_label: "Read More"
 #    btn_class: "btn--primary" 
 ---
