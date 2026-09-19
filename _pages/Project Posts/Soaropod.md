@@ -1,5 +1,5 @@
 ---
-
+permalink: /Soaropod/
 title: "Planetary Rover Active Suspension System (ACS)"
 author_profile: false
 ---
