@@ -43,6 +43,7 @@ feature_row2:
 feature_row3:
   - image_path: /assets/images/Longnecked_Lightning.png
     alt: "ACS Image"
+    url: /Soaropod/
     title: " Planetary Rover Active Suspension System - Personal Project"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: /ACS/
