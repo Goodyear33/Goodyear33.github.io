@@ -19,4 +19,4 @@ LINK is a 6-DOF robotic manipulator controlled by human arm movements using an i
 
 I want to take this design further in the future by implementing a more realistic human hand in the end effector for increased finer manipulability, improving bandwidth for use outside ranges bluetooth can't reach and adding useful tools for assisting utility operations such as a flashlight, screwdriver, magnifier and 3rd-hand operability.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7341372878849789953?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7341372878849789953?compact=1" height="400" width="300" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
