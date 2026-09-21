@@ -7,6 +7,8 @@ main:
     url: /splash/
   - title: "Publications"
     url: /about/
+  - title: "Work"
+    url: /workhistory/
 #  - title: "Contact"
 #    url: /contact/
 
