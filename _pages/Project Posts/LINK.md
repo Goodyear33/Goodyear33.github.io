@@ -7,4 +7,4 @@ classes: wide
 ---
 
 Test
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7341372878849789953?collapsed=1" height="872" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7341372878849789953?compact=1" height="399" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
