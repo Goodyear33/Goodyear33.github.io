@@ -17,5 +17,5 @@ I had such a fun and challenging time working on this project. It opened my eyes
 
 I was responsible for the initial assumed constraint analysis data (mostly taken from the P-51 Mustang and FAR/CARs), powerplant selection, propeller analysis and thrust modelling, weight calculations throughout the flight profile, and landing gear and shock sizing:
 
-<iframe src="https://drive.google.com/file/d/1uXYTpPAb1ccN-BZPL6iuayQKAbd-m9uO/preview" width="900" height="960"></iframe>
+<iframe src="https://drive.google.com/file/d/1uXYTpPAb1ccN-BZPL6iuayQKAbd-m9uO/preview" width="900" height="750"></iframe>
 
