@@ -4,7 +4,7 @@ title: "Conceptualized Air Racer - AIAA RFP Response"
 author_profile: false
 classes: wide
 ---
-  A novel aircraft was conceptualized and analyzed for desired performance characteristics in response to the 25'-26' AIAA RFP of a clean-sheet Ultimate Class Air Racer design. The folloeing report is the culmination of this semester-long project for AERO 3002 "Aerospace Design & Practice" as our introduction to aircraft performance anaysis and design.
+  A novel aircraft was conceptualized and analyzed for desired performance characteristics in response to the 25'-26' AIAA RFP of a clean-sheet Ultimate Class Air Racer design. The following report is the culmination of this semester-long project for AERO 3002 "Aerospace Design & Practice" as our introduction to aircraft design and analysis.
 
   I had such a fun and intresting time working on this project! It really opened my eyes to the complexity and interdependence of aircraft systems and thier performance impact - who would have thought that changing landing gear size would result in a tweak needed in the empennage! 
 
