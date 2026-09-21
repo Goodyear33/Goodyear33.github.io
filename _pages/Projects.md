@@ -35,8 +35,8 @@ feature_row2:
   - image_path: /assets/images/LINK2.png
     alt: "Link Image"
     title: "Limbed Interface for Natural Kinetics (LINK) - Personal Project"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
+    excerpt: 'LINK is a 6DOF robotic manipulator controlled by human arm movements using an interface glove. Check it out:'
+    url: /LINK/
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
