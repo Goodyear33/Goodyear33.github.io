@@ -35,7 +35,7 @@ feature_row2:
   - image_path: /assets/images/LINK2.png
     alt: "Link Image"
     title: "Limbed Interface for Natural Kinetics (LINK) - Personal Project"
-    excerpt: 'LINK is a 6-DOF robotic manipulator controlled by human arm movements using a bluetooth interfacing glove. Check it out:'
+    excerpt: 'LINK is a 6-DOF robotic manipulator controlled by human arm movements using an interfacing bluetooth glove. Check it out:'
     url: /LINK/
     btn_label: "Read More"
     btn_class: "btn--primary"
