@@ -41,9 +41,9 @@ feature_row2:
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/Longnecked_Lightning.png
-    alt: "ACS Image"
+    alt: "Longnecked_Lightning"
     url: /soaropod/
-    title: " Conceptualized Design of a Reno Air Racer Aircraft - AIAA Academic Project"
+    title: " Conceptualized Reno Air Racing Aircraft - AIAA Academic Project"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     btn_label: "Read More"
     btn_class: "btn--primary"
