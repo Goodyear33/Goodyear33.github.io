@@ -46,7 +46,6 @@ feature_row3:
     url: /soaropod/
     title: " Conceptualized Design of a Reno Air Racer Aircraft - AIAA Academic Project"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: /ACS/
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_END:
