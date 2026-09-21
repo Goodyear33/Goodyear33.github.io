@@ -3,7 +3,7 @@ permalink: /soaropod/
 title: "AIAA RFP Response - Conceptualized Air Racer"
 author_profile: false
 ---
-<div style="text-align: center;">
+<div style="width: 95%; margin: 0 auto; text-align: center;">
 A novel aircraft was conceptualized and analyzed for desired performance characteristics in response to the 25'-26' AIAA RFP of a clean-sheet Ultimate Class Air Racer design. The folloeing report is the culmination of this semester-long project for AERO 3002 "Aerospace Design & Practice" as our introduction to aircraft performance anaysis and design.
 
 I had such a fun and intresting time working on this project! It really opened my eyes to the complexity and interdependence of aircraft systems and performance - who would have thought that changing landing gear size would result in a tweak needed in the empennage design! 
