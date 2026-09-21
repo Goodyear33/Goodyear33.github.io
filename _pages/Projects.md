@@ -24,7 +24,7 @@ intro:
 #    title: "Placeholder 3"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row1:
-  - image_path: /assets/images/ACS.png
+  - image_path: /assets/images/ACS2.png
     alt: "ACS Image"
     title: " Planetary Rover Active Suspension System - Personal Project"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
