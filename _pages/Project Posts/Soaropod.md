@@ -1,6 +1,6 @@
 ---
 permalink: /soaropod/
-title: "AIAA RFP Response - Conceptualized Air Racer"
+title: "Conceptualized Air Racer - AIAA RFP Response"
 author_profile: false
 classes: wide
 ---
