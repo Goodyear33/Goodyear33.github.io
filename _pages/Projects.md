@@ -44,7 +44,7 @@ feature_row3:
     alt: "Longnecked_Lightning"
     url: /soaropod/
     title: " Conceptualized Reno Air Racing Aircraft - AIAA Academic Project"
-    excerpt: 'A novel aircraft was conceptualized and analyzed for desired performance characteristics in response to the 25'-26' AIAA RFP of a clean-sheet Ultimate Class Air Racer design. I was responsible for'
+    excerpt: 'Bruh'
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_END:
