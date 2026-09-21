@@ -44,7 +44,7 @@ feature_row3:
     alt: "Longnecked_Lightning"
     url: /soaropod/
     title: " Conceptualized Reno Air Racing Aircraft - AIAA Academic Project"
-    excerpt: 'Powerplant selection, propeller analysis, thrust modelling, weight calculations throughout the flight profile, and landing gear and shock sizing of a novel conceptualized aircraft design in response to a 25'-26' AIAA Ultimate-Class Air Racer RFP'
+    excerpt: 'sf'
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row_END:
