@@ -27,7 +27,7 @@ feature_row1:
   - image_path: /assets/images/ACS2.png
     alt: "ACS Image"
     title: " Planetary Rover Active Suspension System - Personal Project"
-    excerpt: 'Novel Active Suspension System (ACS) for the Carleton Planetary Rover Team utilizing actuators to sumiltaneously achieve an increased range of traversable terrain types and stability during locomotion. I am super proud of this system, have a look:'
+    excerpt: "Novel Active Suspension System (ACS) for the Carleton Planetary Rover Team utilizing actuators to sumiltaneously achieve an increased range of traversable terrain types and stability during locomotion. I'm super proud of this system, have a look:"
     url: /ACS/
     btn_label: "Read More"
     btn_class: "btn--primary"
