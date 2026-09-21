@@ -32,7 +32,7 @@ feature_row1:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/LINK1.png
+  - image_path: /assets/images/LINK2.png
     alt: "Link Image"
     title: "Limbed Interface for Natural Kinetics (LINK) - Personal Project"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
