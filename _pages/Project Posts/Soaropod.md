@@ -7,7 +7,7 @@ classes: wide
 ---
 <style>
 .page__content p {
-  text-indent: 25px;
+  text-indent: 20px;
 }
 </style>
 
