@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "Publications:"
+title: "Publications"
 author_profile: true
 ---
 *"A Discussion on the Operational Benefits of an Active Suspension System for Extraterrestrial Rovers"*
