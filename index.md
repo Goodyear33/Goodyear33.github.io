@@ -11,4 +11,4 @@ author_profile: true
 - nuf said
 *Picture here* Just like Andrea Esposito
 
-Send me an email! Let's chat about anything: ben.goodyear.33@gmail.com
+Send me an email! Let's chat about anything: goodyear.ben.33@gmail.com
