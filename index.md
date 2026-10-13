@@ -9,7 +9,7 @@ author_profile: true
 **"Design is an iterative process. The nesessary number of iterations is one more than the number you have currently done. This is true at any point in time"** - Akin's Laws of Spacecraft Design
 
 I belive engineering is an art
-image path: /assets/images/Sunset.jpg
+  - image_path: /assets/images/Sunset.jpg
 *Picture here* Just like Andrea Esposito
 
 Let's chat about anything! Send me an email: goodyear.ben.33@gmail.com
