@@ -23,7 +23,7 @@ intro:
 #  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
 #    title: "Placeholder 3"
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-feature_row1:
+feature_row3:
   - image_path: /assets/images/ACS2.png
     alt: "ACS Image"
     title: " Planetary Rover Active Suspension System - Personal Project"
@@ -39,7 +39,7 @@ feature_row2:
     url: /LINK/
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row3:
+feature_row1:
   - image_path: /assets/images/Longnecked_Lightning.png
     alt: "Longnecked_Lightning"
     url: /soaropod/
