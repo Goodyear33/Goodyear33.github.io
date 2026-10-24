@@ -1,5 +1,5 @@
 ---
-title: "Projects (The Fun Stuff)"
+title: "My Projects (The Fun Stuff)"
 layout: splash
 permalink: /splash/
 header:
