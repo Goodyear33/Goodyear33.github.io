@@ -13,4 +13,3 @@ author_profile: true
 
 
 Let's chat about anything! Send me an email: goodyear.ben.33@gmail.com
-My name is Benjamin Goodyear and I am in my last year of aerospace engineering at calrton univeristy. I have spent 16 months in the Robotics and Space Operations division of MDA Space in Brampton as a Mechanical Engineering Student on the Canadarm3 team. I was also the first Chassis lead of the Carleton Planetary Robotics team where I lead a group of over 10 undergraduate students in development of a novel rover chassis. Additionally on the rover team, I personally developed the control systems and logic of the first active suspension system. I want to continue pursuing my understanding and ability of controling spacecraft and robotic systems in the form of a Masters Degree in the field of Guidance, Navigation and Control. 
