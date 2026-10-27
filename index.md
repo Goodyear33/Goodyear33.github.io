@@ -9,7 +9,7 @@ author_profile: true
 **"Design is an iterative process. The nesessary number of iterations is one more than the number you have currently done. This is true at any point in time"** - Akin's Laws of Spacecraft Design
 
 My name is Ben  Goodyear. Welcome to I believe engineering is an art
-<iframe src="https://drive.google.com/file/d/1ZaR6yplkz2BL23L-laibaOW8GSf7xZVW/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1ZaR6yplkz2BL23L-laibaOW8GSf7xZVW/preview" width="750" height="289"></iframe>
 
 
 Let's chat about anything! Send me an email: goodyear.ben.33@gmail.com
